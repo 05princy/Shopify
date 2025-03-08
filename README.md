@@ -8,13 +8,16 @@ Features
 ->Direct Store Links – Clickable product links to purchase instantly.
 
 Installation Guide
+
 git clone https://github.com/yourusername/shopify-price-comparison.git
 cd shopify-price-comparison
 
 Install Dependencies
+
 pip install -r requirements.txt
 
 Run the Application
+
 streamlit run shopify_scraper.py
 
 
